@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This is a list of compatible drives for the SENTINEL.
+-->
+<WhiteList>
+  <!-- Draco/Draco_RE -->
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2002FYPS-02W3B0</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2002FYPS-02W3B1</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2009FYPX-09AAMB0</Model>
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3009FYPX-09AAMB0</Model>
+  
+  <!-- Hitachi -->
+  <Model description="Deskstar 5K4000 4 TB" size="3815448" etype="constant">Hitachi HDS5C4040ALE630</Model>
+  <Model description="Deskstar 5K4000 4 TB" size="3815448" etype="constant">HGST HDS5C4040ALE630</Model>
+
+  <!-- Vivaldi -->
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2000F9YZ-09N20L0</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2000F9MZ-09NVPL0</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2000F9MZ-76NVPL0</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2000F9YZ-76N20L1</Model>
+  <Model description="Enterprise Storage 2 TB" size="1907730" etype="constant">WDC WD2000F9YZ-09N20L1</Model>
+  
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3000F9YZ-09N20L0</Model>
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3000F9MZ-09NVPL0</Model>
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3000F9MZ-76NVPL0</Model>
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3000F9YZ-76N20L1</Model>
+  <Model description="Enterprise Storage 3 TB" size="2861589" etype="constant">WDC WD3000F9YZ-09N20L1</Model>
+  
+  <Model description="Enterprise Storage 4 TB" size="3815448" etype="constant">WDC WD4000F9YZ-09N20L0</Model>
+  <Model description="Enterprise Storage 4 TB" size="3815448" etype="constant">WDC WD4000F9MZ-09NVPL0</Model>
+  <Model description="Enterprise Storage 4 TB" size="3815448" etype="constant">WDC WD4000F9MZ-76NVPL0</Model>
+  <Model description="Enterprise Storage 4 TB" size="3815448" etype="constant">WDC WD4000F9YZ-76N20L1</Model>
+  <Model description="Enterprise Storage 4 TB" size="3815448" etype="constant">WDC WD4000F9YZ-09N20L1</Model>
+  
+  <!-- WD Red 3TB -->
+  <Model description="WD - 3TB Internal Hard Drive (NAS)" size="2861589" etype="constant">WDC WD30EFRX-68EUZN0</Model>
+</WhiteList>
